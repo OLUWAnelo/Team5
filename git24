@@ -1,2 +1,8 @@
 i love devops
 tech for devops
+
+
+git config --global user.email "you@example.com"
+git config --global user.email "ask4nelo2000@yahoo.com"
+git config --global user.name "OLUWAnelo"
+
